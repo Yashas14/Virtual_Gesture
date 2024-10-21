@@ -84,6 +84,8 @@ Our focus areas:
 ---
 ## How it recognizes the Gesture 
 ![image](https://github.com/user-attachments/assets/afd5f6d0-c2bc-44e7-aa9b-f0221e59585b)
+
+--
 ![image](https://github.com/user-attachments/assets/a3902816-edbe-4577-8cc5-31489ddb885e)
 
 ---
