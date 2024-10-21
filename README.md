@@ -82,10 +82,9 @@ Our focus areas:
 - **Frame Rate**: Maintained 60 FPS even during complex drawing tasks.
 
 ---
-
-## 🏅 **Awards and Achievements**
-- **Top 30 Finalists** at **TATA INNOVENT 2024 Hackathon** for the best technological innovation in gesture-based interaction.
-- **High User Adoption**: Successfully tested and adopted in diverse environments—hospitals, schools, and design studios.
+## How it recognizes the Gesture 
+![image](https://github.com/user-attachments/assets/afd5f6d0-c2bc-44e7-aa9b-f0221e59585b)
+![image](https://github.com/user-attachments/assets/a3902816-edbe-4577-8cc5-31489ddb885e)
 
 ---
 
@@ -107,12 +106,7 @@ Our focus areas:
 
 ---
 
-## 🎥 **Demonstration Video and Source Code**
-Check out our [Demonstration Video]() for a live walkthrough of the platform's capabilities.
 
-Access the **Source Code**: [GitHub Link](https://github.com/YourUsername/VirtualGestureSolutions)
-
----
 
 This project is a leap toward **future-forward technology** where interaction is no longer constrained by physical devices. We're excited to have you explore and contribute to the **Virtual Gesture Solutions** project—let's innovate together! 💻👋
 
