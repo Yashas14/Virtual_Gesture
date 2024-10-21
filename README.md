@@ -1,6 +1,6 @@
-### Welcome to the **Virtual Gesture Solutions** GitHub Repository 🎨🚀
+# Welcome to the **Virtual Gesture Solutions** GitHub Repository 🎨🚀
 
-This repository hosts the innovative project developed for the **TATA INNOVENT 2024 Hackathon**, which combines **Artificial Intelligence** and **Gesture Recognition** to revolutionize how users interact with digital tools. With gesture-based control and AI assistance, this project introduces a futuristic platform that includes a **Virtual Mouse**, **Virtual Keyboard**, **Virtual Calculator**, and **Virtual Canvas**—all designed for a **touchless, intuitive, and accessible user experience**.
+This repository hosts the innovative project developed for the **Future**, which combines **Artificial Intelligence** and **Gesture Recognition** to revolutionize how users interact with digital tools. With gesture-based control and AI assistance, this project introduces a futuristic platform that includes a **Virtual Mouse**, **Virtual Keyboard**, **Virtual Calculator**, and **Virtual Canvas**—all designed for a **touchless, intuitive, and accessible user experience**.
 
 ---
 
@@ -58,27 +58,6 @@ Our focus areas:
 - **Google Generative AI**: Powers advanced calculation capabilities in the Virtual Calculator, analyzing equations and generating real-time results.
 - **Tkinter**: For creating graphical user interfaces (GUIs) that manage each virtual tool (keyboard, calculator, mouse, canvas).
 - **JSON**: Handles customization of layouts, gestures, and configuration files for all virtual tools.
-
----
-
-## 🚀 **How to Get Started**
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/YourUsername/VirtualGestureSolutions.git
-```
-
-### Step 2: Install Dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### Step 3: Launch the Project
-```bash
-python main.py
-```
-
-Once launched, you will have access to the suite of virtual tools, allowing you to control your system via gestures and voice inputs!
 
 ---
 
