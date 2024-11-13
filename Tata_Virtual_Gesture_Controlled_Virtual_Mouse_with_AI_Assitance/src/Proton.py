@@ -51,7 +51,7 @@ def wish():
     else:
         reply("Good Evening!")
 
-    reply("I am Tata, how may I help you?")
+    reply("I am Proton, how may I help you?")
 
 # Set Microphone parameters
 with sr.Microphone() as source:
@@ -76,7 +76,7 @@ def get_volume():
     devices = ctypes.windll.user32
     # Retrieves the current volume in a range of 0-65535, then we normalize it to a percentage
     class Volume:
-        def __init__(self):
+        def _init_(self):
             self.vol_min = 0
             self.vol_max = 65535
 
@@ -132,7 +132,7 @@ def record_audio():
 def respond(voice_data):
     global file_exp_status, files, is_awake, path
     print(voice_data)
-    voice_data = voice_data.replace('tata', '')
+    voice_data = voice_data.replace('proton', '')
     app.eel.addUserMsg(voice_data)
 
     if is_awake == False:
@@ -145,7 +145,7 @@ def respond(voice_data):
         wish()
 
     elif 'what is your name' in voice_data:
-        reply('My name is Tata!')
+        reply('My name is Proton!')
 
     elif 'date' in voice_data:
         reply(today.strftime("%B %d, %Y"))
@@ -319,7 +319,7 @@ while True:
         voice_data = record_audio()
 
     # process voice_data
-    if 'tata' in voice_data:
+    if 'proton' in voice_data:
         try:
             # Handle sys.exit()
             respond(voice_data)
